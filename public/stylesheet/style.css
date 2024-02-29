@@ -27,11 +27,16 @@ nav img {
   /* margin-top: 20px; */
   margin-left: 30px;
 }
+.logo_home{
+  margin-top: -10px;
+  height: 130px;
+  /* width: 100px; */
+}
 
 nav li {
   float: left;
   margin-right: 50px;
-  margin-top: -60px;
+  margin-top: -115px;
   /* padding: 10px; */
 }
 
@@ -42,6 +47,7 @@ nav li a {
   text-decoration: none;
   padding: 20px;
   margin-right: 40px;
+  margin-top: 10px;
 }
 /* @media screen and (max-width: 600px) {
   nav li {
@@ -515,6 +521,12 @@ h3 {
   background-color: #0062cc;
 }
 
+.team{
+  background-color: #765762;
+  color: white;
+  padding: 15px;
+  margin-bottom: -15px;
+}
 /* Add your custom styles here */
 
 /* Example customizations */
@@ -603,11 +615,11 @@ body {
 .image2 {
   position: relative;
   display: flex;
-  margin-left: -950px;
+  margin-left: -1000px;
   height: 600px;
   /* padding-right: 50px; */
-  margin-right: 65px;
-  margin-top: 150px;
+  margin-right: 95px;
+  margin-top: 210px;
   /* box-shadow: 8px 8px rgb(31, 30, 30); */
   border-radius: 10px;
   width: 850px;
